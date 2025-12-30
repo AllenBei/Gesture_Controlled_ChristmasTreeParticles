@@ -1,0 +1,7 @@
+{
+  "name": "Christmas Magic Particles",
+  "description": "A magical 3D interactive Christmas experience controlled by hand gestures.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
